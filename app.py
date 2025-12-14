@@ -2,7 +2,7 @@ import os
 import streamlit as st
 from google import genai
 
-MODEL_ID = "gemini-3-pro-preview"
+MODEL_ID = "gemini-pro-latest"
 
 st.set_page_config(page_title="Gemini 3 Pro Chat", page_icon="💬")
 st.title("💬 Gemini 3 Pro")
